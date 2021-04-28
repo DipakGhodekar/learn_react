@@ -32,3 +32,7 @@ README.md|How to use project
 import|React|from|'react'
 ---|---|---|---
 We want get code from some other file or depency|The varaible name we want to assign this import to||name of library or path to file we are importing
+
+#### 16. What is JSX?
+babeljs converts JSX to JavaScript code.
+https://babeljs.io/ here we can see JavaScript equivalent of JSX
