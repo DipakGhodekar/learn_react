@@ -21,7 +21,14 @@ Folder|Usage
 ---|---
 src| Folder where we put all source code we write
 public|folder that stores static files like images
-node_modules|folder that contains all dependencies 
+node_modules|folder that contains all dependencies
 package.json|records our project dependencies and configure our project
 package-lock.json|records exact version of package that we are installing
 README.md|How to use project
+
+
+#### 11. JavaScript Module Systems
+
+import|React|from|'react'
+---|---|---|---
+We want get code from some other file or depency|The varaible name we want to assign this import to||name of library or path to file we are importing
